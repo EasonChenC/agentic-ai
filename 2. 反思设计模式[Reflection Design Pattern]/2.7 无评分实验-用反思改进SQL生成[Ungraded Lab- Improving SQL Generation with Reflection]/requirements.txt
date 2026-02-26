@@ -1,0 +1,3 @@
+aisuite
+python-dotenv
+pandas
