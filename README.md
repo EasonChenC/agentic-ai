@@ -36,6 +36,16 @@
   - [项目目录](./3.%20工具使用%5BTool%20Use%5D/3.5%20无评分实验-邮件助理工作流%5BUngraded%20Lab-%20Email%20Assistant%20Workflow%5D/)
   - 构建使用工具的邮件助理工作流实践项目
 
+### 4. [构建Agentic AI的实用技巧 (Practical Tips for Building Agentic AI)](./4.%20构建Agentic%20AI的实用技巧%5BPractical%20Tips%20for%20Building%20Agentic%20AI%5D/)
+
+- [构建Agentic AI的实用技巧.md](./4.%20构建Agentic%20AI的实用技巧%5BPractical%20Tips%20for%20Building%20Agentic%20AI%5D/构建Agentic%20AI的实用技巧.md) - 构建Agentic AI的实用技巧和最佳实践
+
+#### 实验项目
+
+- **4.5 无评分实验-组件级评估 (Ungraded Lab: Component-level eval)**
+  - [项目目录](./4.%20构建Agentic%20AI的实用技巧%5BPractical%20Tips%20for%20Building%20Agentic%20AI%5D/4.5%20无评分实验-组件级评估%5BUngraded%20Lab-%20Component-level%20eval%5D/)
+  - 学习如何对Agentic AI系统进行组件级别的评估
+
 ## 说明
 
 每个章节包含理论学习笔记和配套的代码实现，帮助理解和实践 Agentic AI 的核心概念。
